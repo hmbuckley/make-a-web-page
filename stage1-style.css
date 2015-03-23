@@ -1,0 +1,41 @@
+/* This is a CSS comment*/
+body {
+	padding: 20px 10px;
+	font-family: Rockwell;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1.4em;
+}
+h1 {
+	text-align: center;
+	color: #0000FF;
+}
+h3 {
+  text-decoration: underline
+}
+.lesson {
+	background-color: #2E64FE;
+	border-radius: 15px;
+	color: white;
+	padding: 20px;
+	margin: 10px auto;
+}
+.subject {
+	background-color: #01A9DB;
+	border-radius: 10px;
+	color: white;
+	padding: 5px;
+	margin: 5px auto;
+}
+.subject-title {
+	font-size: 20px;
+	margin: 8px;
+	text-align: center;
+	color: white;
+}
+.subject-description {
+	font-size: 20px;
+	margin: 8px;
+  text-align: left;
+	color: white;
+}
